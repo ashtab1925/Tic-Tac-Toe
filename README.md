@@ -26,19 +26,10 @@ This is a simple implementation of the classic **Tic Tac Toe** game using Python
    git clone https://github.com/ashtab1925/Tic-Tac-Toe.main
    cd Tic-Tac-Toe.main
 ## 🖥️ Sample Gameplay
-Player X turn
-- - -
-- - -
-- - -
-Enter row and column numbers to fix spot: 1 1
 
-Player O turn
-X - -
-- - -
-- - -
-Enter row and column numbers to fix spot: 2 2
+![Screenshot 2025-04-20 201739](https://github.com/user-attachments/assets/f6bd0b5b-dcf0-406f-9ae7-d1dc5fbaa349)
 
-...
+
 🧠 Concepts Used
 Python Classes & Objects
 
